@@ -1,10 +1,9 @@
-# Proyecto "Nombre Ejemplo"
+# Proyecto "Pequeña escena con Vectores"
 
 Team:
-    - Alumno/a 1
-    - Alumno/a 2
+    - José Vázquez
 
 Tools:
-    - Unity Engine 2021.X.X LTS
+    - Unity Engine 2021.3.5f1 LTS
 
 
