@@ -1,4 +1,4 @@
-# Proyecto "Pequeña escena con Vectores"
+# Proyecto "Desafío - Colliders aplicados a escenas armadas"
 
 Team:
     - José Vázquez
